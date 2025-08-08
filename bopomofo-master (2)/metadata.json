@@ -1,0 +1,5 @@
+{
+  "name": "Bopomofo Master",
+  "description": "A dynamic game to practice Bopomofo (Zhuyin). Users can choose between matching Chinese characters to their phonetic symbols or vice-versa, with hints provided for each question.",
+  "requestFramePermissions": []
+}
